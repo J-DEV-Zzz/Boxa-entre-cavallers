@@ -1,0 +1,14 @@
+C:\Users\Joel\RiderProjects\Boxa entre cavallers\Boxa entre cavallers\bin\Debug\net8.0\Boxa entre cavallers.exe
+C:\Users\Joel\RiderProjects\Boxa entre cavallers\Boxa entre cavallers\bin\Debug\net8.0\Boxa entre cavallers.deps.json
+C:\Users\Joel\RiderProjects\Boxa entre cavallers\Boxa entre cavallers\bin\Debug\net8.0\Boxa entre cavallers.runtimeconfig.json
+C:\Users\Joel\RiderProjects\Boxa entre cavallers\Boxa entre cavallers\bin\Debug\net8.0\Boxa entre cavallers.dll
+C:\Users\Joel\RiderProjects\Boxa entre cavallers\Boxa entre cavallers\bin\Debug\net8.0\Boxa entre cavallers.pdb
+C:\Users\Joel\RiderProjects\Boxa entre cavallers\Boxa entre cavallers\obj\Debug\net8.0\Boxa entre cavallers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel\RiderProjects\Boxa entre cavallers\Boxa entre cavallers\obj\Debug\net8.0\Boxa entre cavallers.AssemblyInfoInputs.cache
+C:\Users\Joel\RiderProjects\Boxa entre cavallers\Boxa entre cavallers\obj\Debug\net8.0\Boxa entre cavallers.AssemblyInfo.cs
+C:\Users\Joel\RiderProjects\Boxa entre cavallers\Boxa entre cavallers\obj\Debug\net8.0\Boxa entre cavallers.csproj.CoreCompileInputs.cache
+C:\Users\Joel\RiderProjects\Boxa entre cavallers\Boxa entre cavallers\obj\Debug\net8.0\Boxa entre cavallers.dll
+C:\Users\Joel\RiderProjects\Boxa entre cavallers\Boxa entre cavallers\obj\Debug\net8.0\refint\Boxa entre cavallers.dll
+C:\Users\Joel\RiderProjects\Boxa entre cavallers\Boxa entre cavallers\obj\Debug\net8.0\Boxa entre cavallers.pdb
+C:\Users\Joel\RiderProjects\Boxa entre cavallers\Boxa entre cavallers\obj\Debug\net8.0\Boxa entre cavallers.genruntimeconfig.cache
+C:\Users\Joel\RiderProjects\Boxa entre cavallers\Boxa entre cavallers\obj\Debug\net8.0\ref\Boxa entre cavallers.dll

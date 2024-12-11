@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Boxa entre cavallers/1.0.0": {
+        "runtime": {
+          "Boxa entre cavallers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Boxa entre cavallers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
